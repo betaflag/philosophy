@@ -34,6 +34,10 @@ sits unused, unshipped, or closed teaches you nothing and delivers nothing.
 5. **Ship, or it rots.** Value only exists once it's transmitted. Default to open
    and in use. Hiding or hoarding is a cost that has to earn itself, never a
    strategy on its own.
+6. **Constrain over configure.** The best default is no option at all. Make the
+   wrong state impossible instead of merely non-default. An imposed opinion is a
+   gift. It spares a decision and prevents a snowflake by design rather than by
+   discipline.
 
 **The test.** Before anything goes into what you build (a line of code, a
 feature, a dependency, a sentence), ask three things. Is it needed now? Is it a

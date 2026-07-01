@@ -20,7 +20,9 @@ copy-edit a chapter you might cut.
    the first line. 12-factor costs nothing extra and keeps the mess out. Hold off
    on tests, security, and CI until a surface has hardened into a contract people
    depend on. Clean isn't slow. Minimal is what makes you fast, so go fast by
-   doing less, not by cutting corners.
+   doing less, not by cutting corners. Once it is stable, finish it: craft is the
+   reward of stability, not its enemy, and a proven thing left half-polished is
+   its own kind of rot.
 4. **Adopt the tool's vision, or leave it.** Use a library the way its author
    meant it to be used. Learn how they think about the problem instead of forcing
    your own shape onto it. Your judgment goes into picking the tool, not into
