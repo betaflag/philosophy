@@ -1,15 +1,15 @@
 # philosophy
 
-How I build things — one trunk of principles, specialized per area.
+How I build things. One trunk of principles, applied per area.
 
-- **[PHILOSOPHY.md](PHILOSOPHY.md)** — the trunk. Domain-neutral primitives.
-- **[areas/](areas/)** — each area is the trunk applied to a domain:
-  - [software.md](areas/software.md) — building software and products
-  - [config.md](areas/config.md) — personal dev-environment config
+- **[PHILOSOPHY.md](PHILOSOPHY.md)** is the trunk: the domain-neutral primitives.
+- **[areas/](areas/)** apply the trunk to a specific domain:
+  - [software.md](areas/software.md) for building software and products
+  - [config.md](areas/config.md) for personal dev-environment config
 
-The structure is the point: the trunk is the primitives, each area is a product
-built on them, and adding an area is the seam. To expand, add `areas/<name>.md`
-that cites the trunk and states only what its domain specializes — never
-re-derive the trunk.
+The layout follows the idea it describes. The trunk holds the primitives, each
+area is a product built on them, and a new `areas/<name>.md` is the seam where it
+expands. When you add one, cite the trunk and write only what your domain adds.
+Don't restate the trunk.
 
-Open by default — see [LICENSE](LICENSE).
+Open by default. See [LICENSE](LICENSE).

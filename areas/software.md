@@ -1,30 +1,34 @@
 # Software
 
-Specializes the [trunk](../PHILOSOPHY.md) for building software and products.
+Applies the [trunk](../PHILOSOPHY.md) to building software and products.
 
-**The manuscript.** Write code like a manuscript: direction and structure are
-everything; keep them clean always — it's cheap. *Editing* — tests, hardening,
-security, CI, refactoring for contracts — is waste until the manuscript
-stabilizes. You don't copy-edit a chapter you might cut.
+**The manuscript.** Write code the way you'd write a manuscript. The direction
+and the structure are what matter, and keeping them clean is cheap, so do it from
+the start. Editing is a different job: tests, hardening, security, CI, refactoring
+to fit a contract. That work is wasted until the manuscript stabilizes. You don't
+copy-edit a chapter you might cut.
 
-1. **Less code** — The best engineering is the code you didn't write. Every line
-   is bug surface and future cost. Code is a disposable liability; the learning
-   it generates, multiplied by usage, is the asset.
-2. **Engineer only what *is* the product** — Infrastructure earns its place by
-   delivering user value now. A background queue at the start is rot; a queue
-   *is* the product when asynchronousness is the feature. Speculative scale and
-   abstraction are premature by default.
-3. **Structure always, edit when stable** — Clean, minimal design from line one
-   (12-factor is free and prevents mess); defer tests, security, and CI until a
-   surface hardens into a used contract. Rigor follows stability and use. Clean ≠
-   slow — minimal *is* fast. Go fast *by* being minimal, never by cutting corners.
-4. **Adopt the tool's vision, or leave it** — Use libraries as their creators
-   intend; learn the mental model, don't fork it. Express your views in *which*
-   tool you choose, never by bending one against its design. A mismatch means
-   it's the wrong tool, not a project.
-5. **Few strong tools** — Modern, but consolidated. Build around a small set of
-   well-established tools; don't scatter across shiny ones.
-6. **Open by default** — Code is never the moat; the moat is some other factor,
-   and finding it is the actual work. Closing code is only ever a concession to
-   security debt — never a strategy, and debt is meant to be paid down. If hiding
-   the code feels load-bearing, you've mislocated your value.
+1. **Less code.** The best engineering is the code you never wrote. Every line is
+   one more place a bug can live and one more thing to maintain. Code is a
+   liability you spend to get something back, and what you get back is the
+   learning. Usage multiplies it.
+2. **Engineer only what is the product.** Infrastructure earns its place by
+   delivering value now. Starting a project with a background queue is rot.
+   Building that same queue when async *is* the feature is the product. Treat
+   scale and abstraction as premature until something proves otherwise.
+3. **Structure always, edit when stable.** Keep the design clean and minimal from
+   the first line. 12-factor costs nothing extra and keeps the mess out. Hold off
+   on tests, security, and CI until a surface has hardened into a contract people
+   depend on. Clean isn't slow. Minimal is what makes you fast, so go fast by
+   doing less, not by cutting corners.
+4. **Adopt the tool's vision, or leave it.** Use a library the way its author
+   meant it to be used. Learn how they think about the problem instead of forcing
+   your own shape onto it. Your judgment goes into picking the tool, not into
+   fighting it. If it doesn't fit how you think, it's probably the wrong tool.
+5. **Few strong tools.** Stay modern, but don't chase every new thing. Pick a
+   small set of proven tools and build around them.
+6. **Open by default.** The code is never the moat. The moat is some other
+   factor, and figuring out what that is happens to be the real work. The only
+   honest reason to close code is security debt, like legacy you haven't
+   hardened, and that's a debt you plan to pay down. If keeping the code secret
+   feels essential, you haven't found your real advantage yet.
