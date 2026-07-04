@@ -7,10 +7,11 @@ area is about the agents that work for me. An agent is a tool. None of
 powerful enough that integrating it is a craft of its own and young enough
 that the craft keeps changing.
 
-1. **An extension of myself.** The agent is never a thing of its own. I adopt
-   its output as my output and I own it entirely: the quality bar, the
-   verification, the consequences. "The agent did it" doesn't exist. Whatever
-   ships under my name is mine, whoever wrote the first draft.
+1. **The agent's output is my output.** The agent is never a thing of its
+   own, only an extension of myself. I adopt what it produces and own it
+   entirely: the quality bar, the verification, the consequences. "The agent
+   did it" doesn't exist. Whatever ships under my name is mine, whoever wrote
+   the first draft.
 2. **Mastery is the work.** A tool this powerful earns deliberate integration.
    Put real thought into where agents enter the workflow, what they're trusted
    with, and how to wield them better. Adopt the tool's vision applies in

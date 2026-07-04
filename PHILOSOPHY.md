@@ -19,26 +19,27 @@ carried it. Code, config, a draft: all disposable. What compounds is what you
 learned, multiplied by how much it gets used. So the enemy is rot. Anything that
 sits unused, unshipped, or closed teaches you nothing and delivers nothing.
 
-1. **Minimal surface.** Add only what earns its place. Absence is the default.
-   Everything you add is something to build, maintain, and eventually remove.
-2. **Primitives over products.** Build the core from small, composable pieces
-   with clean seams. Expandability comes from how you cut the pieces, not from
-   how much you build, so it costs thought rather than machinery. Pull primitives
-   out of what you actually use today. Don't invent them for a future that may
-   never arrive. That's how a product changes direction without rotting at its
-   core.
-3. **Legible to whoever's next.** A user, a teammate, or you in six months should
-   be able to figure it out without a manual.
-4. **Reversible by default.** Prefer decisions you can walk back, because
-   reversibility is what buys speed: if you can undo it, act now and state the
-   assumption. Deliberation is for the one-way doors. Make those slowly.
+1. **Absence is the default.** Add only what earns its place. Everything you
+   add is something to build, maintain, and eventually remove.
+2. **Build the core from primitives.** Small, composable pieces with clean
+   seams. Expandability comes from how you cut the pieces, not from how much
+   you build, so it costs thought rather than machinery. Pull primitives out
+   of what you actually use today instead of inventing them for a future that
+   may never arrive. That's how a product changes direction without rotting
+   at its core.
+3. **The next person shouldn't need a manual.** A user, a teammate, or you in
+   six months: whoever's next should be able to figure it out from what's in
+   front of them.
+4. **Reversibility buys speed.** Prefer decisions you can walk back: if you
+   can undo it, act now and state the assumption. Deliberation is for the
+   one-way doors. Make those slowly.
 5. **Ship, or it rots.** Value only exists once it's transmitted. Default to open
    and in use. Hiding or hoarding is a cost that has to earn itself, never a
    strategy on its own.
-6. **Constrain over configure.** The best default is no option at all. Make the
-   wrong state impossible instead of merely non-default. An imposed opinion is a
-   gift. It spares a decision and prevents a snowflake by design rather than by
-   discipline.
+6. **The best default is no option at all.** Constrain over configure: make
+   the wrong state impossible instead of merely non-default. An imposed
+   opinion is a gift. It spares a decision and prevents a snowflake by design
+   rather than by discipline.
 7. **Replace, don't deprecate.** A new path replaces the old one, and the old
    one gets deleted. Two ways to do the same thing is rot on a schedule, and
    the schedule slips. When a cutover carries real risk, stage it: fork the

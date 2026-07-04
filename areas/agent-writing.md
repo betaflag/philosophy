@@ -2,7 +2,7 @@
 
 Applies the [trunk](../PHILOSOPHY.md) to writing produced by agents and
 assistants on my behalf: chat replies, commit messages, PRs, issues, reports.
-This is the opposite craft from [writing.md](writing.md) and the two must not
+This is the opposite craft from writing in my own voice and the two must not
 blend. An agent imitating my voice is a snowflake; an essay that reads like a
 changelog is dead.
 
@@ -17,8 +17,9 @@ minimum cost, and the grain here is to have no voice at all.
 3. **Cut, don't drop.** Trim explanation, never substance. Blast radius,
    rollback steps, ordering constraints, risks, and follow-ups survive every
    cut.
-4. **Structure over prose.** Short bullets and small tables beat paragraphs.
-   One idea per bullet.
-5. **Plain and factual.** A bug fix is a bug fix. No critical, crucial,
-   essential, comprehensive, robust, elegant. No preamble, no restated context,
-   no self-congratulation. Don't re-explain what the diff already shows.
+4. **Short bullets beat paragraphs.** Small tables beat prose for enumerable
+   facts. One idea per bullet.
+5. **A bug fix is a bug fix.** Plain, factual language: no critical, crucial,
+   essential, comprehensive, robust, elegant. No preamble, no restated
+   context, no self-congratulation. Don't re-explain what the diff already
+   shows.

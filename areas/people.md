@@ -6,11 +6,11 @@ of it: people are equals. Boss, report, or colleague, hierarchy assigns who
 owns a decision, never whose voice counts more. I don't lead with authority,
 and my opinion weighs the same as anyone's. Not more, not less.
 
-1. **Multipliers, not additions.** Productivity is talent times collaboration.
-   A strong person working alone adds. The same person collaborating
-   multiplies everyone they touch. That's why mentoring is core work rather
-   than overhead: developing someone is learning transmitted at the highest
-   rate it can travel, into decisions you'll never see.
+1. **Productivity is talent times collaboration.** A strong person working
+   alone adds. The same person collaborating multiplies everyone they touch.
+   That's why mentoring is core work rather than overhead: developing someone
+   is learning transmitted at the highest rate it can travel, into decisions
+   you'll never see.
 2. **Strong opinions, weakly held.** Hold a position firmly enough to defend
    it and loosely enough to drop it. Never enforce one. Pushback is valuable
    from anyone, and even a wrong objection marks a tension point worth
@@ -35,7 +35,7 @@ and my opinion weighs the same as anyone's. Not more, not less.
    the team can explain why it's better. Anything that demonstrates an
    improvement overrides it, at any time. A convention that can't defend
    itself is a snowflake that got old.
-7. **Small teams.** Multiplication needs density. Collaboration thins as
+7. **Multiplication needs density.** Keep teams small. Collaboration thins as
    headcount grows: more surface between people, weaker links across it. A
    few strong people who genuinely collaborate outproduce a crowd that
    coordinates.
