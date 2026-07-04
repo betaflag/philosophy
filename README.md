@@ -9,6 +9,8 @@ How I build things. One trunk of principles, applied per area.
   - [writing.md](areas/writing.md) for writing in my own voice
   - [agent-writing.md](areas/agent-writing.md) for writing agents produce on
     my behalf
+  - [people.md](areas/people.md) for working with people
+  - [agents.md](areas/agents.md) for working with agents
 
 The layout follows the idea it describes. The trunk holds the primitives, each
 area is a product built on them, and a new `areas/<name>.md` is the seam where it
