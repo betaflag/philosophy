@@ -34,3 +34,10 @@ copy-edit a chapter you might cut.
    honest reason to close code is security debt, like legacy you haven't
    hardened, and that's a debt you plan to pay down. If keeping the code secret
    feels essential, you haven't found your real advantage yet.
+7. **Watched it work, or it doesn't.** Never claim something works on the
+   strength of having written it. Before a surface stabilizes, verification is
+   you running the thing and looking at what it does. Once it hardens into a
+   contract, build the looking into machinery: tests you've seen fail, types,
+   linters, hooks. That's the boundary inside edit-when-stable. The machinery
+   waits for stability; the looking never does. And when a change touches
+   anything shared, know the blast radius before and check the state after.

@@ -29,8 +29,9 @@ sits unused, unshipped, or closed teaches you nothing and delivers nothing.
    core.
 3. **Legible to whoever's next.** A user, a teammate, or you in six months should
    be able to figure it out without a manual.
-4. **Reversible by default.** Prefer decisions you can walk back. Make the
-   one-way doors slowly.
+4. **Reversible by default.** Prefer decisions you can walk back, because
+   reversibility is what buys speed: if you can undo it, act now and state the
+   assumption. Deliberation is for the one-way doors. Make those slowly.
 5. **Ship, or it rots.** Value only exists once it's transmitted. Default to open
    and in use. Hiding or hoarding is a cost that has to earn itself, never a
    strategy on its own.
@@ -38,6 +39,12 @@ sits unused, unshipped, or closed teaches you nothing and delivers nothing.
    wrong state impossible instead of merely non-default. An imposed opinion is a
    gift. It spares a decision and prevents a snowflake by design rather than by
    discipline.
+7. **Replace, don't deprecate.** A new path replaces the old one, and the old
+   one gets deleted. Two ways to do the same thing is rot on a schedule, and
+   the schedule slips. When a cutover carries real risk, stage it: fork the
+   path, deploy the new one alongside, merge so the new path is the only one.
+   The fork is scaffolding. It earns its brief life by reducing risk, and the
+   job isn't done until it's torn down.
 
 **The test.** Before anything goes into what you build (a line of code, a
 feature, a dependency, a sentence), ask three things. Is it needed now? Is it a
