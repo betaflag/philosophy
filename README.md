@@ -24,6 +24,13 @@ The prose in this repo follows its own rules:
   quote with nothing after it, then a gloss of two to four sentences that
   argues rather than restates. A principle that can't be compressed into one
   standing sentence isn't understood yet.
+- **The maxim throws a punch.** Direct, certain, allowed to sting. If it could
+  open a manifesto, it's right. If it needs a footnote, it's a gloss wearing
+  bold.
+- **The gloss lands one insight, then stops.** Drop the heat after the punch,
+  name the mechanism in a plain sentence, and trust the reader to finish the
+  thought. The insight replaces explanation; it never joins it. Depth comes
+  from what gets said, not from rare words.
 - **One image, carried through, is compression.** A small set of concrete
   images (the grain, the trunk, rot) carries every argument. A new metaphor
   every paragraph is sprawl.
