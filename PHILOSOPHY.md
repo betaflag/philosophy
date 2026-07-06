@@ -9,10 +9,13 @@ seam.
 **Go with the grain. Cross it only where crossing it is the point.** Every
 tool, platform, and community has a grain: the conventions people already
 expect. Follow it by default. Conventions are leverage you didn't have to
-earn, and every deviation is a bill that keeps arriving until it rots. A
-snowflake is a deviation that isn't the point, the accidental kind, or just
-taste. A differentiator is a deviation that *is* the point: deliberate,
-load-bearing, worth its cost. Follow the grain everywhere else so the whole
+earn, and every deviation is a bill that keeps arriving until it rots. When
+two grains collide, follow the one more people already know. A snowflake is
+a deviation that isn't the point, the accidental kind, or taste that
+sprawled. A differentiator is a deviation that *is* the point: deliberate,
+load-bearing, worth its cost. Taste gets one narrow pass: a coherent choice
+that costs nothing to understand, like a single theme, is expression, and
+minimal never meant bland. Follow the grain everywhere else so the whole
 novelty budget goes to the few differentiators that define the thing. Then
 commit to those and keep them coherent.
 

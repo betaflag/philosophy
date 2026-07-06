@@ -5,7 +5,6 @@ How I build things. One trunk of principles, applied per area.
 - **[PHILOSOPHY.md](PHILOSOPHY.md)** is the trunk: the domain-neutral primitives.
 - **[areas/](areas/)** apply the trunk to a specific domain:
   - [software.md](areas/software.md) for building software and products
-  - [config.md](areas/config.md) for personal dev-environment config
   - [agent-writing.md](areas/agent-writing.md) for writing agents produce on
     my behalf
   - [people.md](areas/people.md) for working with people
